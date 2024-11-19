@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+<bookstore>
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <ISBN>9780316769488</ISBN>
+        <Publisher>Little, Brown and Company</Publisher>
+        <Edition>1st</Edition>
+        <Price>10.99</Price>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <ISBN>9780060935467</ISBN>
+        <Publisher>Harper Perennial</Publisher>
+        <Edition>1st</Edition>
+        <Price>7.99</Price>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <ISBN>9780451524935</ISBN>
+        <Publisher>Signet Classics</Publisher>
+        <Edition>Plume</Edition>
+        <Price>9.99</Price>
+    </book>
+</bookstore>
