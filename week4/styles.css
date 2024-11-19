@@ -1,0 +1,44 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+thead {
+    background-color: grey;
+}
+
+th {
+    color: white;
+}
+
+.author {
+    color: blue;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.title {
+    color: darkgreen;
+}
+
+.isbn {
+    color: darkred;
+}
+
+.publisher {
+    color: purple;
+}
+
+.edition {
+    color: orange;
+}
+
+.price {
+    color: darkblue;
+}

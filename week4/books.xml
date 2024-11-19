@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <isbn>9780743273565</isbn>
+        <publisher>Scribner</publisher>
+        <edition>1st</edition>
+        <price>10.99</price>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <isbn>9780451524935</isbn>
+        <publisher>Harcourt Brace</publisher>
+        <edition>2nd</edition>
+        <price>9.99</price>
+    </book>
+</books>
